@@ -1,6 +1,7 @@
 ResponsiveWeb Features
 ======================
 
+
 1. responsive navigation - http://filamentgroup.com/lab/responsive_design_approach_for_navigation/
 2. responsive images - 
    2.1 css-tricks on various options : http://css-tricks.com/which-responsive-images-solution-should-you-use/
@@ -15,3 +16,5 @@ Foresight.js gives webpages the ability to tell if the user's device is capable 
 high-resolution images (such as the 3rd generation iPad) before the image is requested from the server. 
 Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. 
 Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage
+8. A state manager for CSS media queries
+http://harvesthq.github.com/harvey/
