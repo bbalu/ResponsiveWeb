@@ -7,5 +7,5 @@ ResponsiveWeb Features
    2.2 HiSrc : Jquery Plugin for adaptive images (https://github.com/teleject/hisrc)
 3. colors selection (3) - 
 4. font selection (2) - 
-5. responsive font-sizes - http://filamentgroup.com/lab/responsive_design_approach_for_navigation/
+5. responsive Text rendering - http://filamentgroup.com/lab/responsive_design_approach_for_navigation/
 6. media queries - resolution detection
