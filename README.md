@@ -18,3 +18,4 @@ Additionally, it judges if the user's device currently has a fast enough network
 Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage
 8. A state manager for CSS media queries
 http://harvesthq.github.com/harvey/
+9. Added dummy line to test git commit
